@@ -1,0 +1,2 @@
+# id|name|age|department|email|phone
+STU1001|Aditya|19|CSe|ad@gmail.com|7970878783
